@@ -1,5 +1,3 @@
-# flight_delay_spark
-
 # PySpark Machine Learning Analysis
 
 This repository demonstrates a comprehensive example of using PySpark for machine learning. We compare the performance of various machine learning models on a flight delay prediction task. The analysis covers data preprocessing, model training, evaluation, and visualization of results.
